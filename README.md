@@ -44,4 +44,4 @@ The system should handle different types of waste containers and trigger appropr
 
 ## UML
 
-![Strategy Pattern UML](Screenshot%202026-02-10%20222231.png)
+![UML](puml.jpg)
